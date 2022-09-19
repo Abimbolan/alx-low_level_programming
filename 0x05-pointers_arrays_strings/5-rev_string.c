@@ -5,6 +5,7 @@
  *
  * @s: operand to be evaluated.
  */
+
 void rev_string(char *s)
 {
 int count = 0, i, j;
