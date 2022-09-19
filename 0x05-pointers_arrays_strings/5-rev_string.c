@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- * re_string - prints a string, in reverse.
+ * rev_string - prints a string, in reverse.
  *
  * @s: operand to be evaluated.
  */
-
 void rev_string(char *s)
 {
 int count = 0, i, j;
